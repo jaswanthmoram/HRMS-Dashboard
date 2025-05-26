@@ -2,7 +2,9 @@
 
 A modern, responsive HR Dashboard web application built with Next.js (App Router), React 18, Tailwind CSS, Chart.js, and the React Context API.
 
----
+## 🚀 Live Demo
+
+Visit the live demo: [HRMS Dashboard](https://hrms-dashboard-flame.vercel.app/dashboard)
 
 ## 🚀 Features
 
